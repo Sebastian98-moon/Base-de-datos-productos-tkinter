@@ -33,7 +33,9 @@ Incluye funcionalidades de alta, visualización, actualización y eliminación d
 1. Clonar el repositorio
 2. Ejecutar el archivo principal:
 
-python app.py
+python app.py  
+o (en Windows):
+py app.py
 
 ## Capturas 
 
